@@ -1,0 +1,104 @@
+{
+"index-html": {
+      "title": "Introduction",
+      "content"	 : "Programmation Web : front-end",
+      "url": "/bootcamp-front-end/index.html",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#accompagnement-à-apprendre-front-end": {
+      "title": "Accompagnement à apprendre front-end  (Introduction)",
+      "content"	 : "Accompagnement à apprendre front-endAide à la réalisation de 15 projets réels  Vous voulez apprendre la programmation Web, mais vous ne trouver pas par oû commencer ?  Vous être sur le bon endroit.  Nous vous proposons un chemin à suivre pour devenir programmateur Web.",
+      "url": "/bootcamp-front-end/index.html#accompagnement-à-apprendre-front-end",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#description-de-la-formation": {
+      "title": "Description de la formation  (Introduction)",
+      "content"	 : "Description de la formationNous proposons une accompagnement perssonnalité ou en groupe pour vous aider à apprendre le développement Web pour devenir analyse programmateur Web.Nous nous proposons pas des formations à suivre, mais une orientation des conseils à suivre pour devenir analyste programmeur web.Notre accompagnement est sous la forme :  Une série des projet réel à réaliser par ordre  Proposition des aides sous forme de : support, exercice avec solution et une orientation à suivre pour réaliser votre projet.  Présentation et évaluation de la réalisation de votre projet.",
+      "url": "/bootcamp-front-end/index.html#description-de-la-formation",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#objectif-de-la-formation": {
+      "title": "Objectif de la formation  (Introduction)",
+      "content"	 : "Objectif de la formation  Devenir analyse développeur web : front-end  Développer la capacité d’autonomie  Développer la capacité d’apprendre à apprendre",
+      "url": "/bootcamp-front-end/index.html#objectif-de-la-formation",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#programme-de-formation": {
+      "title": "Programme de formation  (Introduction)",
+      "content"	 : "Programme de formation  Langages web : HTML, CSS, JavaScript (Algorithme)  Bibliothèques : Bootstrap(CSS), JQuery(JavaScript)  Technique : JSON, AJAX, API,  Langage serveur : PHP - Création d’une API REST  Bibliothèque 3ième génération : React JS",
+      "url": "/bootcamp-front-end/index.html#programme-de-formation",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#comment-ça-marche-": {
+      "title": "Comment ça marche ?  (Introduction)",
+      "content"	 : "Comment ça marche ?Notre accompagnement peut être résumé en 5 phase :  Phase 1 : Proposition d’un plan de formation personnalisé sous forme de 15 projets à réalisé  Phase 2 : Accompagnement à la réalisation de chaque projet  Phase 3 : Présentation et évaluation de chaque projet",
+      "url": "/bootcamp-front-end/index.html#comment-ça-marche-",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#pédagogie--active": {
+      "title": "Pédagogie : active  (Introduction)",
+      "content"	 : "Pédagogie : active  L’apprenant est le responsable de sa formation, c’est l’acteur principale de la formation.  Le formateur est un médiateur entre le savoir et l’apprenant.  la technique utilisé : pédagogie par projet et travail coopérative entre les apprenants",
+      "url": "/bootcamp-front-end/index.html#pédagogie--active",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#phase-1--plan-de-formation-personnalisé": {
+      "title": "Phase 1 : plan de formation personnalisé  (Introduction)",
+      "content"	 : "Phase 1 : plan de formation personnalisé  Connaître votre besoin          Nous commençons avec vous une séance de diagnistique pour orienté la formation vers vos objectifs professionnel.        Proposition d’un chemin personnalisé à suivre.          le chemin est sous forme d’un série des projets pratique et réel venant de milieu de travail.      ",
+      "url": "/bootcamp-front-end/index.html#phase-1--plan-de-formation-personnalisé",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#phase-2--accompagnement-à-la-réalisation": {
+      "title": "Phase 2 : Accompagnement à la réalisation  (Introduction)",
+      "content"	 : "Phase 2 : Accompagnement à la réalisation  Explication de travail à faire  Proposition des support de formation gratuit à suivre sur internet  Propostion des exercices avec solution pouvant vous aider à réaliser votre projet  Propostion d’une orientation et des conseils pour vous aider à réaliser votre projet.",
+      "url": "/bootcamp-front-end/index.html#phase-2--accompagnement-à-la-réalisation",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#phase-3--présentation-et-évaluation": {
+      "title": "Phase 3 : Présentation et évaluation  (Introduction)",
+      "content"	 : "Phase 3 : Présentation et évaluation  Présentation de votre projet  Obtenir des remarques sur votre avancement  Explication du projet suivant selon votre avancement.",
+      "url": "/bootcamp-front-end/index.html#phase-3--présentation-et-évaluation",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#prix-de-la-formation": {
+      "title": "Prix de la formation  (Introduction)",
+      "content"	 : "Prix de la formation  Anonyme : gratuit ( google meet (1h par semaine), facebook, youtube)  Personnalisé : paiement par heure d’accompagnement",
+      "url": "/bootcamp-front-end/index.html#prix-de-la-formation",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#entretien-dinscription": {
+      "title": "Entretien d’inscription  (Introduction)",
+      "content"	 : "Entretien d’inscription  Réalisation d’une page HTML          Nom et prénom        Ressource          https://codeur-academy.com/html5-css3/      https://www.w3schools.com/html/        Envoyer à : codeur.academy@gmail.com",
+      "url": "/bootcamp-front-end/index.html#entretien-dinscription",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"introduction-html": {
+      "title": "Chapitre &amp;",
+      "content"	 : "Chapitre",
+      "url": "/bootcamp-front-end/introduction.html",
+      "author": "",
+      "categories": "partie1"
+    }
+,
+"chapitre1-html": {
+      "title": "Chapitre 1",
+      "content"	 : "Chapitre 1",
+      "url": "/bootcamp-front-end/chapitre1.html",
+      "author": "",
+      "categories": "partie1"
+    }
+
+
+}
