@@ -1,103 +1,323 @@
 {
 "index-html": {
-      "title": "Introduction",
-      "content"	 : "Programmation Web : front-end",
+      "title": "Description",
+      "content"	 : "Apprendre la programmation Web : front-endAide à la réalisation de 15 projets réels dans un bootcamp en ligne.",
       "url": "/bootcamp-front-end/index.html",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
-"index-html#accompagnement-à-apprendre-front-end": {
-      "title": "Accompagnement à apprendre front-end  (Introduction)",
-      "content"	 : "Accompagnement à apprendre front-endAide à la réalisation de 15 projets réels  Vous voulez apprendre la programmation Web, mais vous ne trouver pas par oû commencer ?  Vous être sur le bon endroit.  Nous vous proposons un chemin à suivre pour devenir programmateur Web.",
-      "url": "/bootcamp-front-end/index.html#accompagnement-à-apprendre-front-end",
+"index-html#public-cible": {
+      "title": "Public cible  (Description)",
+      "content"	 : "Public cible  Vous voulez apprendre la programmation Web, mais vous ne trouvez pas par oû commencer ?  Vous être sur le bon endroit.  Nous vous proposons un chemin à suivre pour devenir programmateur Web front-end.",
+      "url": "/bootcamp-front-end/index.html#public-cible",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
 "index-html#description-de-la-formation": {
-      "title": "Description de la formation  (Introduction)",
-      "content"	 : "Description de la formationNous proposons une accompagnement perssonnalité ou en groupe pour vous aider à apprendre le développement Web pour devenir analyse programmateur Web.Nous nous proposons pas des formations à suivre, mais une orientation des conseils à suivre pour devenir analyste programmeur web.Notre accompagnement est sous la forme :  Une série des projet réel à réaliser par ordre  Proposition des aides sous forme de : support, exercice avec solution et une orientation à suivre pour réaliser votre projet.  Présentation et évaluation de la réalisation de votre projet.",
+      "title": "Description de la formation  (Description)",
+      "content"	 : "Description de la formationNous proposons une accompagnement personnalisée pour vous aider à apprendre le développement Web front-end afin de devenir analyse programmateur Web.Nous nous proposons pas une formation à suivre, mais une orientation et des conseils à suivre pour réaliser 15 projets réels.",
       "url": "/bootcamp-front-end/index.html#description-de-la-formation",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
 "index-html#objectif-de-la-formation": {
-      "title": "Objectif de la formation  (Introduction)",
+      "title": "Objectif de la formation  (Description)",
       "content"	 : "Objectif de la formation  Devenir analyse développeur web : front-end  Développer la capacité d’autonomie  Développer la capacité d’apprendre à apprendre",
       "url": "/bootcamp-front-end/index.html#objectif-de-la-formation",
       "author": "",
-      "categories": "introduction"
-    },
-"index-html#programme-de-formation": {
-      "title": "Programme de formation  (Introduction)",
-      "content"	 : "Programme de formation  Langages web : HTML, CSS, JavaScript (Algorithme)  Bibliothèques : Bootstrap(CSS), JQuery(JavaScript)  Technique : JSON, AJAX, API,  Langage serveur : PHP - Création d’une API REST  Bibliothèque 3ième génération : React JS",
-      "url": "/bootcamp-front-end/index.html#programme-de-formation",
+      "categories": "présentation-formation"
+    }
+,
+"programme-formation-html": {
+      "title": "Programme de formation",
+      "content"	 : "Programme de formation",
+      "url": "/bootcamp-front-end/programme-formation.html",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
-"index-html#comment-ça-marche-": {
-      "title": "Comment ça marche ?  (Introduction)",
+"programme-formation-html#compétences": {
+      "title": "Compétences  (Programme de formation)",
+      "content"	 : "Compétences  Création d’un site web adaptable  Création d’un site web dynamique",
+      "url": "/bootcamp-front-end/programme-formation.html#compétences",
+      "author": "",
+      "categories": "présentation-formation"
+    },
+"programme-formation-html#technologies": {
+      "title": "Technologies  (Programme de formation)",
+      "content"	 : "Technologies  Langages web : HTML, CSS, JavaScript (Algorithme)  Bibliothèques : Bootstrap(CSS), JQuery(JavaScript)  Technique : JSON, AJAX, API,  Langage serveur : PHP - Création d’une API REST  Bibliothèque 3ième génération : React JS",
+      "url": "/bootcamp-front-end/programme-formation.html#technologies",
+      "author": "",
+      "categories": "présentation-formation"
+    },
+"programme-formation-html#projets": {
+      "title": "Projets  (Programme de formation)",
+      "content"	 : "Projets",
+      "url": "/bootcamp-front-end/programme-formation.html#projets",
+      "author": "",
+      "categories": "présentation-formation"
+    },
+"programme-formation-html#phase-1--htmlcss": {
+      "title": "Phase 1 : HTML,CSS  (Programme de formation)",
+      "content"	 : "Phase 1 : HTML,CSS  Création d’une page d’hommage de Linus Torvald          Apprendre les notions de base de HTML      Apprendre les notions de base de CSS      Apprendre la disposition en utilisant Float      Apprendre à utiliser google font        Création de landing page de notre formation          Apprendre le HTML sémantique      Apprendre la disposition en Flex        Création de la page d’inscription à la formation          Apprendre à utiliser les formulaires      Apprendre à utiliser les icones        Création d’un site web vitrine de vente de matériel informatique          Apprendre la disposition avec Flex en utilisant un système de grid      ",
+      "url": "/bootcamp-front-end/programme-formation.html#phase-1--htmlcss",
+      "author": "",
+      "categories": "présentation-formation"
+    },
+"programme-formation-html#phase-2--javascript": {
+      "title": "Phase 2 : Javascript  (Programme de formation)",
+      "content"	 : "Phase 2 : Javascript  Création d’un calculatrice          Apprendre les notions de base de JavaScript      Apprendre à utiliser les fonctions        Création d’une calculatrice - version 2          Apprendre à utiliser la POO : programmation orienté objet        Gestion des produits          Création d’une application JavaScript      Utilisation de localstorage        Ajouter l’affichage de météo dans notre site vitrine          Apprendre à créer des fichier JSON      Apprendre à utiliser AJAX      consolation d’une API      ",
+      "url": "/bootcamp-front-end/programme-formation.html#phase-2--javascript",
+      "author": "",
+      "categories": "présentation-formation"
+    },
+"programme-formation-html#phase-3--bibliothèque-bootstrap-et-jquery": {
+      "title": "Phase 3 : Bibliothèque (Bootstrap et JQuery)  (Programme de formation)",
+      "content"	 : "Phase 3 : Bibliothèque (Bootstrap et JQuery)  Affichage de météo version 2          Apprendre à utiliser JQuery        Site vitrine version 2          Apprendre à utiliser Bootstrap      ",
+      "url": "/bootcamp-front-end/programme-formation.html#phase-3--bibliothèque-bootstrap-et-jquery",
+      "author": "",
+      "categories": "présentation-formation"
+    },
+"programme-formation-html#phase-4--php": {
+      "title": "Phase 4 : PHP  (Programme de formation)",
+      "content"	 : "Phase 4 : PHP  Gestion des produits - version 2          Apprendre les notions de base de PHP      Apprendre la POO avec PHP      Enregistrement des données dans la session        Gestion des produits - version 3          Apprendre à créer une JQuery avec une API REST      Enregistrement des données dans un fichiers      ",
+      "url": "/bootcamp-front-end/programme-formation.html#phase-4--php",
+      "author": "",
+      "categories": "présentation-formation"
+    },
+"programme-formation-html#phase-5--react": {
+      "title": "Phase 5 : React  (Programme de formation)",
+      "content"	 : "Phase 5 : React  Todo liste          Apprendre les notions de base de React JS              Todo liste - version 2          Apprendre la production avec React      Utilisation de NPM        Création de site vitrine - version 3          Utilisation de React JS      Utilisation de API - Rest      Utilisation de Bootstrap      ",
+      "url": "/bootcamp-front-end/programme-formation.html#phase-5--react",
+      "author": "",
+      "categories": "présentation-formation"
+    }
+,
+"p-c3-a9dagogie-html": {
+      "title": "Pédagogie",
       "content"	 : "Comment ça marche ?Notre accompagnement peut être résumé en 5 phase :  Phase 1 : Proposition d’un plan de formation personnalisé sous forme de 15 projets à réalisé  Phase 2 : Accompagnement à la réalisation de chaque projet  Phase 3 : Présentation et évaluation de chaque projet",
-      "url": "/bootcamp-front-end/index.html#comment-ça-marche-",
+      "url": "/bootcamp-front-end/p%C3%A9dagogie.html",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
-"index-html#pédagogie--active": {
-      "title": "Pédagogie : active  (Introduction)",
-      "content"	 : "Pédagogie : active  L’apprenant est le responsable de sa formation, c’est l’acteur principale de la formation.  Le formateur est un médiateur entre le savoir et l’apprenant.  la technique utilisé : pédagogie par projet et travail coopérative entre les apprenants",
-      "url": "/bootcamp-front-end/index.html#pédagogie--active",
-      "author": "",
-      "categories": "introduction"
-    },
-"index-html#phase-1--plan-de-formation-personnalisé": {
-      "title": "Phase 1 : plan de formation personnalisé  (Introduction)",
+"p-c3-a9dagogie-html#phase-1--plan-de-formation-personnalisé": {
+      "title": "Phase 1 : plan de formation personnalisé  (Pédagogie)",
       "content"	 : "Phase 1 : plan de formation personnalisé  Connaître votre besoin          Nous commençons avec vous une séance de diagnistique pour orienté la formation vers vos objectifs professionnel.        Proposition d’un chemin personnalisé à suivre.          le chemin est sous forme d’un série des projets pratique et réel venant de milieu de travail.      ",
-      "url": "/bootcamp-front-end/index.html#phase-1--plan-de-formation-personnalisé",
+      "url": "/bootcamp-front-end/p%C3%A9dagogie.html#phase-1--plan-de-formation-personnalisé",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
-"index-html#phase-2--accompagnement-à-la-réalisation": {
-      "title": "Phase 2 : Accompagnement à la réalisation  (Introduction)",
+"p-c3-a9dagogie-html#phase-2--accompagnement-à-la-réalisation": {
+      "title": "Phase 2 : Accompagnement à la réalisation  (Pédagogie)",
       "content"	 : "Phase 2 : Accompagnement à la réalisation  Explication de travail à faire  Proposition des support de formation gratuit à suivre sur internet  Propostion des exercices avec solution pouvant vous aider à réaliser votre projet  Propostion d’une orientation et des conseils pour vous aider à réaliser votre projet.",
-      "url": "/bootcamp-front-end/index.html#phase-2--accompagnement-à-la-réalisation",
+      "url": "/bootcamp-front-end/p%C3%A9dagogie.html#phase-2--accompagnement-à-la-réalisation",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
-"index-html#phase-3--présentation-et-évaluation": {
-      "title": "Phase 3 : Présentation et évaluation  (Introduction)",
+"p-c3-a9dagogie-html#phase-3--présentation-et-évaluation": {
+      "title": "Phase 3 : Présentation et évaluation  (Pédagogie)",
       "content"	 : "Phase 3 : Présentation et évaluation  Présentation de votre projet  Obtenir des remarques sur votre avancement  Explication du projet suivant selon votre avancement.",
-      "url": "/bootcamp-front-end/index.html#phase-3--présentation-et-évaluation",
+      "url": "/bootcamp-front-end/p%C3%A9dagogie.html#phase-3--présentation-et-évaluation",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
-"index-html#prix-de-la-formation": {
-      "title": "Prix de la formation  (Introduction)",
-      "content"	 : "Prix de la formation  Anonyme : gratuit ( google meet (1h par semaine), facebook, youtube)  Personnalisé : paiement par heure d’accompagnement",
-      "url": "/bootcamp-front-end/index.html#prix-de-la-formation",
+"p-c3-a9dagogie-html#pédagogie--active": {
+      "title": "Pédagogie : active  (Pédagogie)",
+      "content"	 : "Pédagogie : active  L’apprenant est le responsable de sa formation, c’est l’acteur principale de la formation.  Le formateur est un médiateur entre le savoir et l’apprenant.  la technique utilisé : pédagogie par projet et travail coopérative entre les apprenants",
+      "url": "/bootcamp-front-end/p%C3%A9dagogie.html#pédagogie--active",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     },
-"index-html#entretien-dinscription": {
-      "title": "Entretien d’inscription  (Introduction)",
-      "content"	 : "Entretien d’inscription  Réalisation d’une page HTML          Nom et prénom        Ressource          https://codeur-academy.com/html5-css3/      https://www.w3schools.com/html/        Envoyer à : codeur.academy@gmail.com",
-      "url": "/bootcamp-front-end/index.html#entretien-dinscription",
+"p-c3-a9dagogie-html#quel-est-le-rôle-dun-coach-": {
+      "title": "Quel est le rôle d’un coach ?  (Pédagogie)",
+      "content"	 : "Quel est le rôle d’un coach ?  Mettre l’apprentissage de la programmation à la portée de tous  expliquer ses complexités de manière simple pour la rendre compréhensible à tous les participants inscrits à la formation  Le coach peut adapter le contenu à la demande et le participant peut poser les questions qui l’intéressent.  Il est possible de choisir entre une formation personnalisée ou une formation de groupe.",
+      "url": "/bootcamp-front-end/p%C3%A9dagogie.html#quel-est-le-rôle-dun-coach-",
       "author": "",
-      "categories": "introduction"
+      "categories": "présentation-formation"
     }
 ,
-"introduction-html": {
-      "title": "Chapitre &amp;",
-      "content"	 : "Chapitre",
-      "url": "/bootcamp-front-end/introduction.html",
+"inscription-html": {
+      "title": "Inscription à la formation gratuit",
+      "content"	 : "Inscription à la formation gratuit  Réalisation d’une page HTML          Nom et prénom        Ressource          https://codeur-academy.com/html5-css3/      https://www.w3schools.com/html/        Envoyer à : codeur.academy@gmail.com",
+      "url": "/bootcamp-front-end/inscription.html",
       "author": "",
-      "categories": "partie1"
+      "categories": "présentation-formation"
     }
 ,
-"chapitre1-html": {
-      "title": "Chapitre 1",
-      "content"	 : "Chapitre 1",
-      "url": "/bootcamp-front-end/chapitre1.html",
+"page-hommage-html": {
+      "title": "Travail à faire",
+      "content"	 : "Création d’une page d’hommageDans note premier projet nous allons apprendre à créer notre première page web en utilisant le langage HTML5 et CSS3.",
+      "url": "/bootcamp-front-end/page-hommage.html",
       "author": "",
-      "categories": "partie1"
+      "categories": "projet1"
+    },
+"page-hommage-html#description-du-projet": {
+      "title": "Description du projet  (Travail à faire)",
+      "content"	 : "Description du projetCe projet consiste à la création d’une page d’hommage pour Linus Torvalds. L’idée est de créer une page simple et util en utilisant le langage HTML5 et CSS3.",
+      "url": "/bootcamp-front-end/page-hommage.html#description-du-projet",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#travail-à-faire": {
+      "title": "Travail à faire  (Travail à faire)",
+      "content"	 : "Travail à faireOn vous demande de créer une page web d’hommage en utilisant le langage HTML5 et CSS3.Les éléments suivant doivent être respectés  L’utilisation de la bibliothèque Normalize pour unifier les règle par défaut des navigateurs avant de commencer la création de vos règle CSS  Création de la disposition en utilisant la propriété : float  Utilisation d’un style font populaire dans Google Fonts  Choix des couleurs à partir du logo de Linux et selon la téorie des couleurs  L’utilisation des éléments sémantique pour structurer le contenue de la page.",
+      "url": "/bootcamp-front-end/page-hommage.html#travail-à-faire",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#objectifs-pédagogiques": {
+      "title": "Objectifs pédagogiques  (Travail à faire)",
+      "content"	 : "Objectifs pédagogiques  Apprendre les notions de base du langage HTML  Apprendre les notions de base du langage CSS  Apprendre le rôle et l’utilisation de la la bibliothèque normalize  Apprendre la disposition en utilisant Float  Apprendre à utiliser Google Fonts  Apprendre à créer une palette de couleurs  Apprendre la structure d’un site web",
+      "url": "/bootcamp-front-end/page-hommage.html#objectifs-pédagogiques",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"cr-c3-a9ation-page-hommage-html": {
+      "title": "Présentation",
+      "content"	 : "Présentation",
+      "url": "/bootcamp-front-end/cr%C3%A9ation-page-hommage.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-analyse-technique-html": {
+      "title": "Division en prototypes",
+      "content"	 : "Division de projet en prototypesDans cette étape de réalisation de notre projet nous allons apprendre comment réaliser techniquement notre page web.",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#analyse-technique": {
+      "title": "Analyse technique  (Division en prototypes)",
+      "content"	 : "Analyse techniqueAvant de commencer notre auto-formation, vous devez poser la question : qu’est ce que je doit apprendre pour réaliser notre projet ?pour répondre à notre question, vous devez analyser techniquement votre projet pour trouver les technique à apprendre et que vous ne maîtriser pas.Le problème ici, pour les débutants, comme vous, est qu’il ne connais pas encors tous les techniques pour arriver à déterminer les choses à apprendre.",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#analyse-technique",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#analyse-technique-de-notre-projet": {
+      "title": "Analyse technique de notre projet  (Division en prototypes)",
+      "content"	 : "Analyse technique de notre projetDans ce projet, permettez-moi de vous proposer une analyse technique adéquate à notre projet, en attenant que vous arriver à vous serez capable de réaliser l’analyse technique toute seul.Pour réaliser notre projet nous avons besoin de savoir :  les notions de base du langage HTML  les notions de base du langage CSS  le rôle et l’utilisation de la la bibliothèque normalize  la disposition en utilisant Float  utilisation du Google Fonts  Choisir les couleurs pour une page webPuisque c’est notre premier projet, nous avons bouceau de chose à apprendre. le secret de la réussite est le principe de diviser pour raigné. C’est à dir, diviser le projet en étapes que je les nomes des exemples ou des prototypes.Je vous propose de réaliser notre projet en trois étapes ou trois prototypes.Prototype 1  les notions de base du langage HTMLPrototype 2  les notions de base du langage CSSPrototype 3  structure sémantique d’une page web  le rôle et l’utilisation de la la bibliothèque normalizePrototype 4  utilisation du Google Fonts  Choisir les couleurs pour une page webPrototype 5  la disposition en utilisant FloatJ’ai diviser les technique à apprendre selon la nature de travail et la difficulté.",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#analyse-technique-de-notre-projet",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#prototype-2": {
+      "title": "Prototype 2  (Division en prototypes)",
+      "content"	 : "Prototype 2",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#prototype-2",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#prototype-3": {
+      "title": "Prototype 3  (Division en prototypes)",
+      "content"	 : "Prototype 3",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#prototype-3",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#prototype-4": {
+      "title": "Prototype 4  (Division en prototypes)",
+      "content"	 : "Prototype 4",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#prototype-4",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#auto-formation": {
+      "title": "Auto-formation  (Division en prototypes)",
+      "content"	 : "Auto-formation",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#auto-formation",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-html-html": {
+      "title": "Prototype 1 - HTML",
+      "content"	 : "Prototype 1 : HTML",
+      "url": "/bootcamp-front-end/page-hommage-html.html",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#division-du-prototype-en-exemples-pratiques": {
+      "title": "Division du prototype en exemples pratiques  (Prototype 1 - HTML)",
+      "content"	 : "Division du prototype en exemples pratiquesDans le prototype 1, nous allons créer une page d’hommage de linux torvalds en utilisant seulement le langage HTML.Pour réaliser notre travail nous avons besoin de savoir les éléments suivant :  Titre  Sous-titre  Paragraphe  Liste  Image  Structure sémantique d’une page HTMLSans oublier, vous devez d’abord trouver le contenue pour votre site web.",
+      "url": "/bootcamp-front-end/page-hommage-html.html#division-du-prototype-en-exemples-pratiques",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#étape-de-réalisation": {
+      "title": "Étape de réalisation  (Prototype 1 - HTML)",
+      "content"	 : "Étape de réalisationla réalisation du prototype 1 peut se fait en suivant les tâches suivantes  Recherche et rédaction de contenue  Recherche des références pour chaque élément technique  Apprendre l’utilisation de chaque élément avec un ou plusieurs exemple  Réalisation du prototype en se basant sur les exemples que vous avez réaliser.",
+      "url": "/bootcamp-front-end/page-hommage-html.html#étape-de-réalisation",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#recherche-et-rédaction-de-contenue": {
+      "title": "Recherche et rédaction de contenue  (Prototype 1 - HTML)",
+      "content"	 : "Recherche et rédaction de contenueLe contenue1234567891011121314151617181920212223242526272829303132333435363738# Linus TorvaldsProgrammeur, développeurLinus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais.Il est notamment connu pour avoir créé en 1991 (à 21 ans) le noyau Linux, dont il continue de diriger le développement. Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d&#39;enregistrement et de planification des plongées Subsurface.## Distinctions- EFF Pioneer Award (1998)- Docteur honoris causa de l&#39;université de Stockholm (1999)- Médaille Lovelace (2000)- Docteur honoris causa de l&#39;université d&#39;Helsinki (2000)- European of the Year (en) (2001)- Computer History Museum fellow (2008)- Temple de la renommée d&#39;Internet (2012)- Prix Millennium Technology (2012)- Computer Pioneer Award (2014)- IEEE Masaru Ibuka Consumer Electronics Award (2018)  # Travail  - Fondation Linux (depuis le 22 janvier 2007),   - Open Source Development Labs (juin 2003 - 22 janvier 2007)  - Transmeta (février 1997 - juin 2003),   - université d&#39;Helsinki (1992-1996)  ## Formation - Formation: Université d&#39;Helsinki (maîtrise) (1988-1996)## Œuvres principales- Noyau Linux- Git- SubsurfaceLa photoLien de téléchargement sur github",
+      "url": "/bootcamp-front-end/page-hommage-html.html#recherche-et-rédaction-de-contenue",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#recherche-des-références-pour-chaque-élément-technique": {
+      "title": "Recherche des références pour chaque élément technique  (Prototype 1 - HTML)",
+      "content"	 : "Recherche des références pour chaque élément technique",
+      "url": "/bootcamp-front-end/page-hommage-html.html#recherche-des-références-pour-chaque-élément-technique",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#apprendre-lutilisation-de-chaque-élément-avec-un-ou-plusieurs-exemple": {
+      "title": "Apprendre l’utilisation de chaque élément avec un ou plusieurs exemple  (Prototype 1 - HTML)",
+      "content"	 : "Apprendre l’utilisation de chaque élément avec un ou plusieurs exemple",
+      "url": "/bootcamp-front-end/page-hommage-html.html#apprendre-lutilisation-de-chaque-élément-avec-un-ou-plusieurs-exemple",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#réalisation-du-prototype-en-se-basant-sur-les-exemples-que-vous-avez-réaliser": {
+      "title": "Réalisation du prototype en se basant sur les exemples que vous avez réaliser.  (Prototype 1 - HTML)",
+      "content"	 : "Réalisation du prototype en se basant sur les exemples que vous avez réaliser.",
+      "url": "/bootcamp-front-end/page-hommage-html.html#réalisation-du-prototype-en-se-basant-sur-les-exemples-que-vous-avez-réaliser",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-css-html": {
+      "title": "Prototype 2 - CSS",
+      "content"	 : "Prototype 3 : CSS",
+      "url": "/bootcamp-front-end/page-hommage-css.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-s-c3-a9mantique-normalize-html": {
+      "title": "P3 - Sémantique et Normalize",
+      "content"	 : "Prototype 3 : HTML sémantique et normalize CSS",
+      "url": "/bootcamp-front-end/page-hommage-s%C3%A9mantique-normalize.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-texte-police-html": {
+      "title": "Prototype 4 - texte et police",
+      "content"	 : "Prototype 3 : Police et couleurs",
+      "url": "/bootcamp-front-end/page-hommage-texte-police.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-disposition-float-html": {
+      "title": "Prototype 5 - disposition en float",
+      "content"	 : "Prototype 5 : Disposition en float",
+      "url": "/bootcamp-front-end/page-hommage-disposition-float.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-r-c3-a9alisation-html": {
+      "title": "Réalisation",
+      "content"	 : "Réalisation",
+      "url": "/bootcamp-front-end/page-hommage-r%C3%A9alisation.html",
+      "author": "",
+      "categories": "projet1"
     }
 
 
