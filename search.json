@@ -1,15 +1,15 @@
 {
 "bien-d-c3-a9marrer-avec-html-css-html": {
       "title": "Travail à faire",
-      "content"	 : "Projet 0 : Bien démarrer avec HTML5 et CSS3Avant de commencer la réalisation de nos projets, je vous conseil, si vous êtes totalement débutant, de commencer votre apprentissage pour une auto-formation rapide du langage HTML et CSS. Just pour découvrir la syntaxe générale et de réaliser votre première page web. Je nomme cette étape d’initialisation : Bien démarrer avec HTML 5 et CSS3.",
+      "content"	 : "Projet 0 : Création d’une page webProjet de démarrage et d’initiation à HTML5 et CSS3",
       "url": "/bootcamp-front-end/bien-d%C3%A9marrer-avec-html-css.html",
       "author": "",
       "categories": "projet0"
     },
-"bien-d-c3-a9marrer-avec-html-css-html#description-du-projet-0": {
-      "title": "Description du projet 0  (Travail à faire)",
-      "content"	 : "Description du projet 0Le projet consiste à réaliser un article ou une page web sur le sujet : Ordinateur. L’objectif est d’abord découvrir la syntaxe des langages HTML5 et CSS3, ensuit apprendre les notions de base qui vous amène à comprendre comment réaliser les projets suivants de notre formation.",
-      "url": "/bootcamp-front-end/bien-d%C3%A9marrer-avec-html-css.html#description-du-projet-0",
+"bien-d-c3-a9marrer-avec-html-css-html#description-du-projet": {
+      "title": "Description du projet  (Travail à faire)",
+      "content"	 : "Description du projetAvant de commencer la réalisation de nos projets, je vous conseil, si vous êtes totalement débutant, de commencer votre apprentissage pour une auto-formation rapide du langage HTML et CSS. Just pour découvrir la syntaxe générale et de réaliser votre première page web. Je nomme cette étape d’initialisation : Bien démarrer avec HTML 5 et CSS3.Le projet consiste à réaliser un article sur le sujet : Ordinateur.L’objectif est d’abord découvrir la syntaxe des langages HTML5 et CSS3, ensuit apprendre les notions de base qui vous amène à comprendre comment réaliser les projets suivants de notre formation.",
+      "url": "/bootcamp-front-end/bien-d%C3%A9marrer-avec-html-css.html#description-du-projet",
       "author": "",
       "categories": "projet0"
     },
@@ -22,7 +22,7 @@
     },
 "bien-d-c3-a9marrer-avec-html-css-html#objectifs-pédagogiques": {
       "title": "Objectifs pédagogiques  (Travail à faire)",
-      "content"	 : "Objectifs pédagogiques  Savoir la notion de Web et Internet  Découvrir la syntaxe de HTML5  Découvrir la syntaxe de CSS3  Réaliser votre première page web avec HTML5 et CSS3",
+      "content"	 : "Objectifs pédagogiquesLa réalisation de ce projet vous permettez de :  Savoir la notion de Web et Internet  Découvrir la syntaxe de HTML5  Découvrir la syntaxe de CSS3  Réaliser votre première page web avec HTML5 et CSS3",
       "url": "/bootcamp-front-end/bien-d%C3%A9marrer-avec-html-css.html#objectifs-pédagogiques",
       "author": "",
       "categories": "projet0"
@@ -30,21 +30,21 @@
 ,
 "bien-d-c3-a9marrer-avec-html-css-conseils-html": {
       "title": "Conseils et orientation",
-      "content"	 : "Conseils et orientation",
+      "content"	 : "Projet 0 : conseils et orientationPour vous aidez à réaliser votre projet, nous vous proposons une orientation et quelques conseils à suivre.",
       "url": "/bootcamp-front-end/bien-d%C3%A9marrer-avec-html-css-conseils.html",
       "author": "",
       "categories": "projet0"
     },
 "bien-d-c3-a9marrer-avec-html-css-conseils-html#division-du-projet-en-prototypes": {
       "title": "Division du projet en prototypes  (Conseils et orientation)",
-      "content"	 : "Division du projet en prototypesPour simplifier la réalisation du projet, nous pouvons le diviser en plusieurs partie simple à réaliser. Par exemple, nous pouvons diviser notre projet en deux partie :  Partie 1 : Page d’article seulement en HTML  Partie 2 : Page d’article avec HTML et CSSJe nomme chaque partie : Prototype. Il sert à nous montrer une réalisation parique que nous ne maitrisons pas.",
+      "content"	 : "Division du projet en prototypesPour simplifier la réalisation du projet, nous vous proposons de le diviser en plusieurs partie simple à réaliser. Par exemple, nous pouvons diviser le projet en deux partie :  Partie 1 : Page d’article seulement en HTML  Partie 2 : Page d’article avec HTML et CSSJe nomme chaque partie : Prototype. Il sert à nous montrer comment réaliser une partie de notre projet.",
       "url": "/bootcamp-front-end/bien-d%C3%A9marrer-avec-html-css-conseils.html#division-du-projet-en-prototypes",
       "author": "",
       "categories": "projet0"
     },
 "bien-d-c3-a9marrer-avec-html-css-conseils-html#prototype-1--article-en-html": {
       "title": "Prototype 1 : Article en HTML  (Conseils et orientation)",
-      "content"	 : "Prototype 1 : Article en HTMLPour réaliser le prototype 1, je vous propose le référence suivant :  Bien démarrer avec HTML",
+      "content"	 : "Prototype 1 : Article en HTMLPour réaliser le prototype 1, je vous propose la référence suivante :  Bien démarrer avec HTML",
       "url": "/bootcamp-front-end/bien-d%C3%A9marrer-avec-html-css-conseils.html#prototype-1--article-en-html",
       "author": "",
       "categories": "projet0"
@@ -203,28 +203,35 @@
 ,
 "page-hommage-html": {
       "title": "Travail à faire",
-      "content"	 : "Projet 1 : création d’une page d’hommageDans note premier projet nous allons apprendre à créer notre première page web en utilisant le langage HTML5 et CSS3.",
+      "content"	 : "Projet 1 : création d’une page d’hommageAprès le projet d’initiation et de démarrage avec les langages HTML et CSS, c’est le temps de commencer notre premier projet professionnel dans notre formation d’apprentissage de développement front-end.",
       "url": "/bootcamp-front-end/page-hommage.html",
       "author": "",
       "categories": "projet1"
     },
 "page-hommage-html#description-du-projet": {
       "title": "Description du projet  (Travail à faire)",
-      "content"	 : "Description du projetCe projet consiste à la création d’une page d’hommage pour Linus Torvalds. L’idée est de créer une page simple et util en utilisant le langage HTML5 et CSS3.",
+      "content"	 : "Description du projetLe projet consiste à créer la page d’hommage sur Linus Torvalds.L’idée du projet est de réaliser une page web simple mais professionnel en utilisant le langage HTML5 et CSS3. Le terme professionnel désigne que nous devrons utiliser les mêmes techniques utilisées par un développeur web dans une agence de création des sites web.Lien de l’image sur figma",
       "url": "/bootcamp-front-end/page-hommage.html#description-du-projet",
       "author": "",
       "categories": "projet1"
     },
 "page-hommage-html#travail-à-faire": {
       "title": "Travail à faire  (Travail à faire)",
-      "content"	 : "Travail à faireOn vous demande de créer une page web d’hommage en utilisant le langage HTML5 et CSS3.Les éléments suivant doivent être respectés  L’utilisation de la bibliothèque Normalize pour unifier les règle par défaut des navigateurs avant de commencer la création de vos règle CSS  Création de la disposition en utilisant la propriété : float  Utilisation d’un style font populaire dans Google Fonts  Choix des couleurs à partir du logo de Linux et selon la téorie des couleurs  L’utilisation des éléments sémantique pour structurer le contenue de la page.",
+      "content"	 : "Travail à faireNous vous demandons de créer votre projet en utilisant le langage HTML5 et CSS3.Tous d’abord, avant de commencer le codage, nous vous demandons choisir un style de font populaire sur Google Font. Puis, choisissez les couleurs à utiliser dans votre page web en extraire les couleurs utilisés sur le logo du linux ce-dessous. Nous vous proposons d’utiliser le site web : color.adobe.com qui vous permettez d’extraire les couleurs à parire d’une image.Dans un deuxième temps, vous écrivez le code HTML de la page en utilisant des balises sémantique pour structurer le contenue de la page.Enfin, vous écrivez le code CSS pour reproduire la maquette en utilisant la disposition avec la propriété float. Aussi, nous vous demandons d’utiliser la bibliothèque Normalize pour unifier les règles par défaut des navigateurs web avant de commencer la création de vos règles CSS.  Utilisation de Google Fonts  extraction des couleurs à partir du logo de linux  utilisation des balises sémantiques  disposition avec float  utilisation de la bibliothèque NormalizeLogo de linuxLiens utiles  color.adobe.com  fonts.google.com  necolas.github.io/normalize.css",
       "url": "/bootcamp-front-end/page-hommage.html#travail-à-faire",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#contenue-de-la-page": {
+      "title": "Contenue de la page  (Travail à faire)",
+      "content"	 : "Contenue de la pagePour créer votre projet, vous pouvez utiliser ce contenue.123456789101112131415161718192021222324252627282930313233343536373839# Linus TorvaldsProgrammeur, développeurLinus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais.Il est notamment connu pour avoir créé en 1991 (à 21 ans) le noyau Linux, dont il continue de diriger le développement. Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d&#39;enregistrement et de planification des plongées Subsurface.## Distinctions- EFF Pioneer Award (1998)- Docteur honoris causa de l&#39;université de Stockholm (1999)- Médaille Lovelace (2000)- Docteur honoris causa de l&#39;université d&#39;Helsinki (2000)- European of the Year (en) (2001)- Computer History Museum fellow (2008)- Temple de la renommée d&#39;Internet (2012)- Prix Millennium Technology (2012)- Computer Pioneer Award (2014)- IEEE Masaru Ibuka Consumer Electronics Award (2018)  # Travail  - Fondation Linux (depuis le 22 janvier 2007),   - Open Source Development Labs (juin 2003 - 22 janvier 2007)  - Transmeta (février 1997 - juin 2003),   - université d&#39;Helsinki (1992-1996)  ## Formation - Formation: Université d&#39;Helsinki (maîtrise) (1988-1996)## Œuvres principales- Noyau Linux- Git- SubsurfaceLa photoLien de téléchargement sur github",
+      "url": "/bootcamp-front-end/page-hommage.html#contenue-de-la-page",
       "author": "",
       "categories": "projet1"
     },
 "page-hommage-html#objectifs-pédagogiques": {
       "title": "Objectifs pédagogiques  (Travail à faire)",
-      "content"	 : "Objectifs pédagogiques  Apprendre les notions de base du langage HTML  Apprendre les notions de base du langage CSS  Apprendre le rôle et l’utilisation de la la bibliothèque normalize  Apprendre la disposition en utilisant Float  Apprendre à utiliser Google Fonts  Apprendre à créer une palette de couleurs  Apprendre la structure d’un site web",
+      "content"	 : "Objectifs pédagogiquesLa réalisation de ce projet vous permet de développer les connaissances suivantes :  Découvrir les balises sémantique de structuration  Découvrir la bibliothèque normalize  Apprendre à utiliser la disposition en utilisant la propriété Float  Découvrir l’utilisation de Google Fonts  Découvrir comment créer une palette de couleurs  Découvrir comment structurer les fichiers d’un site web.",
       "url": "/bootcamp-front-end/page-hommage.html#objectifs-pédagogiques",
       "author": "",
       "categories": "projet1"
@@ -240,100 +247,72 @@
 ,
 "page-hommage-analyse-technique-html": {
       "title": "Division en prototypes",
-      "content"	 : "Division de projet en prototypesDans cette étape de réalisation de notre projet nous allons apprendre comment réaliser techniquement notre page web.",
+      "content"	 : "Division de projet en prototypesLa réalisation d’un projet en développement informatique peut paraître difficile pour les débutants. C’est pour ça, nous vous recommandons de diviser la réalisation du projet en étapes ou parties. Mais, comment diviser la réalisation d’un projet ?",
       "url": "/bootcamp-front-end/page-hommage-analyse-technique.html",
       "author": "",
       "categories": "projet1"
     },
-"page-hommage-analyse-technique-html#analyse-technique": {
-      "title": "Analyse technique  (Division en prototypes)",
-      "content"	 : "Analyse techniqueAvant de commencer notre auto-formation, vous devez poser la question : qu’est ce que je doit apprendre pour réaliser notre projet ?pour répondre à notre question, vous devez analyser techniquement votre projet pour trouver les technique à apprendre et que vous ne maîtriser pas.Le problème ici, pour les débutants, comme vous, est qu’il ne connais pas encors tous les techniques pour arriver à déterminer les choses à apprendre.",
-      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#analyse-technique",
+"page-hommage-analyse-technique-html#comment-diviser-un-projet--analyse-technique": {
+      "title": "Comment diviser un projet : analyse technique  (Division en prototypes)",
+      "content"	 : "Comment diviser un projet : analyse techniqueNous vous proposons de diviser la réalisation du projet selon les techniques que vous ne maîtrisez pas. C’est à dire, vous commencerez l’apprentissage et la réalisation des parties de projets que vous ne connaissez pas.Pour déterminer les techniques que vous ne maîtrisez pas, vous devrais commencer d’abord par une analyse technique de votre projet. l’objectif de cette analyse est déterminer tous techniques à utiliser pour la réalisation du projet.Ensuite, vous vous concentrez  sur les techniques que vous ne maîtrisez pas en les regroupant dans des ensembles. Pour chaque ensemble, vous proposez la réalisation d’un exemple ou d’un prototype comme objectif à atteindre. D’abord pour déterminer les auto-formations à faire pour réaliser vos prototypes, ensuite pour valider votre apprentissage et acquisition de ces techniques nécessaire à la réalisation de votre projet..Le problème que vous pouvez rencontrer au début de votre formation est que vous n’ avez pas assez de connaissance pour réaliser l’analyse technique et la conception des prototypes capable de vous amenez à réaliser votre projet. C’est pour cette raison,nous avons réalisé cette formation d’encadrement et d’accompagnement à la réalisation de 15 projets réels. C’est pour vous proposer l’analyse technique et la conceptions des prototypes simple et réalisable selon votre niveau avec la proposition des  exemples de réalisation.",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#comment-diviser-un-projet--analyse-technique",
       "author": "",
       "categories": "projet1"
     },
 "page-hommage-analyse-technique-html#analyse-technique-de-notre-projet": {
       "title": "Analyse technique de notre projet  (Division en prototypes)",
-      "content"	 : "Analyse technique de notre projetDans ce projet, permettez-moi de vous proposer une analyse technique adéquate à notre projet, en attenant que vous arriver à vous serez capable de réaliser l’analyse technique toute seul.Pour réaliser notre projet nous avons besoin de savoir :  les notions de base du langage HTML  les notions de base du langage CSS  le rôle et l’utilisation de la la bibliothèque normalize  la disposition en utilisant Float  utilisation du Google Fonts  Choisir les couleurs pour une page webPuisque c’est notre premier projet, nous avons bouceau de chose à apprendre. le secret de la réussite est le principe de diviser pour raigné. C’est à dir, diviser le projet en étapes que je les nomes des exemples ou des prototypes.Je vous propose de réaliser notre projet en trois étapes ou trois prototypes.Prototype 1  les notions de base du langage HTMLPrototype 2  les notions de base du langage CSSPrototype 3  structure sémantique d’une page web  le rôle et l’utilisation de la la bibliothèque normalizePrototype 4  utilisation du Google Fonts  Choisir les couleurs pour une page webPrototype 5  la disposition en utilisant FloatJ’ai diviser les technique à apprendre selon la nature de travail et la difficulté.",
+      "content"	 : "Analyse technique de notre projetPour réaliser notre projet nous avons besoin de savoir :  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  la syntaxe de base du langage CSS;  le modèle de Boîtes CSS;  l’utilisation de la bibliothèque normalize pour normaliser les valeurs par défaut des règles CSS entre les différent navigateurs web;  la réalisation de la disposition en utilisant la propriété Float  Comment trouver les couleurs à utiliser pour une page web  L’utilisation des balise HTML sémantiqueà partir cette analyse, nous pouvons regrouper les techniques en cinq ensemble selon l’ordre de son utilisation dans notre projet.",
       "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#analyse-technique-de-notre-projet",
       "author": "",
       "categories": "projet1"
     },
-"page-hommage-analyse-technique-html#prototype-2": {
-      "title": "Prototype 2  (Division en prototypes)",
-      "content"	 : "Prototype 2",
-      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#prototype-2",
+"page-hommage-analyse-technique-html#ensemble-1--html": {
+      "title": "Ensemble 1 : HTML  (Division en prototypes)",
+      "content"	 : "Ensemble 1 : HTML  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  L’utilisation des balise HTML sémantique",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#ensemble-1--html",
       "author": "",
       "categories": "projet1"
     },
-"page-hommage-analyse-technique-html#prototype-3": {
-      "title": "Prototype 3  (Division en prototypes)",
-      "content"	 : "Prototype 3",
-      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#prototype-3",
+"page-hommage-analyse-technique-html#ensemble-2--css": {
+      "title": "Ensemble 2 : CSS  (Division en prototypes)",
+      "content"	 : "Ensemble 2 : CSS  la syntaxe de base du langage CSS;  l’utilisation de la bibliothèque normalize pour normaliser les valeurs par défaut des règles CSS entre les différent navigateurs web;  l’utilisation du Google Fonts  Comment trouver les couleurs à utiliser pour une page web",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#ensemble-2--css",
       "author": "",
       "categories": "projet1"
     },
-"page-hommage-analyse-technique-html#prototype-4": {
-      "title": "Prototype 4  (Division en prototypes)",
-      "content"	 : "Prototype 4",
-      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#prototype-4",
-      "author": "",
-      "categories": "projet1"
-    },
-"page-hommage-analyse-technique-html#auto-formation": {
-      "title": "Auto-formation  (Division en prototypes)",
-      "content"	 : "Auto-formation",
-      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#auto-formation",
+"page-hommage-analyse-technique-html#ensemble-3--disposition": {
+      "title": "Ensemble 3 : Disposition  (Division en prototypes)",
+      "content"	 : "Ensemble 3 : Disposition  le modèle de Boîtes CSS;  la réalisation de la disposition en utilisant la propriété Float",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#ensemble-3--disposition",
       "author": "",
       "categories": "projet1"
     }
 ,
 "page-hommage-html-html": {
       "title": "Prototype 1 - HTML",
-      "content"	 : "Prototype 1 : HTML",
+      "content"	 : "Prototype 1 : HTMLDans le prototype 1, nous allons réaliser une page web en utilisant les techniques suivantes :  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  L’utilisation des balise HTML sémantiqueVous pouvez réaliser ce travail en deux étapes :  Réalisation d’un exemple pratique pour apprendre chaque technique en se basant sur l’auto-formation.  Regrouper ce que nous allons apprendre dans un seul exemple.",
       "url": "/bootcamp-front-end/page-hommage-html.html",
       "author": "",
       "categories": "projet1"
     },
-"page-hommage-html-html#division-du-prototype-en-exemples-pratiques": {
-      "title": "Division du prototype en exemples pratiques  (Prototype 1 - HTML)",
-      "content"	 : "Division du prototype en exemples pratiquesDans le prototype 1, nous allons créer une page d’hommage de linux torvalds en utilisant seulement le langage HTML.Pour réaliser notre travail nous avons besoin de savoir les éléments suivant :  Titre  Sous-titre  Paragraphe  Liste  Image  Structure sémantique d’une page HTMLSans oublier, vous devez d’abord trouver le contenue pour votre site web.",
-      "url": "/bootcamp-front-end/page-hommage-html.html#division-du-prototype-en-exemples-pratiques",
+"page-hommage-html-html#technique-1--syntaxe-de-base-du-langage-html": {
+      "title": "Technique 1 : syntaxe de base du langage HTML  (Prototype 1 - HTML)",
+      "content"	 : "Technique 1 : syntaxe de base du langage HTMLl’objectif est d’abord, d’apprendre la syntaxe de base du langage HTML et la structure d’un document HTML valide. Ensuite, vous essayer de réaliser un exemple pratique qui regroupe ce que vous avez appris.Auto-formation  Élément, balise et attribut  Document HTML valideExemple pratique",
+      "url": "/bootcamp-front-end/page-hommage-html.html#technique-1--syntaxe-de-base-du-langage-html",
       "author": "",
       "categories": "projet1"
     },
-"page-hommage-html-html#étape-de-réalisation": {
-      "title": "Étape de réalisation  (Prototype 1 - HTML)",
-      "content"	 : "Étape de réalisationla réalisation du prototype 1 peut se fait en suivant les tâches suivantes  Recherche et rédaction de contenue  Recherche des références pour chaque élément technique  Apprendre l’utilisation de chaque élément avec un ou plusieurs exemple  Réalisation du prototype en se basant sur les exemples que vous avez réaliser.",
-      "url": "/bootcamp-front-end/page-hommage-html.html#étape-de-réalisation",
+"page-hommage-html-html#technique-2--paragraphe-liste-et-image": {
+      "title": "Technique 2 : paragraphe, liste et image  (Prototype 1 - HTML)",
+      "content"	 : "Technique 2 : paragraphe, liste et imageAuto-formationExemple pratique",
+      "url": "/bootcamp-front-end/page-hommage-html.html#technique-2--paragraphe-liste-et-image",
       "author": "",
       "categories": "projet1"
     },
-"page-hommage-html-html#recherche-et-rédaction-de-contenue": {
-      "title": "Recherche et rédaction de contenue  (Prototype 1 - HTML)",
-      "content"	 : "Recherche et rédaction de contenueLe contenue1234567891011121314151617181920212223242526272829303132333435363738# Linus TorvaldsProgrammeur, développeurLinus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais.Il est notamment connu pour avoir créé en 1991 (à 21 ans) le noyau Linux, dont il continue de diriger le développement. Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d&#39;enregistrement et de planification des plongées Subsurface.## Distinctions- EFF Pioneer Award (1998)- Docteur honoris causa de l&#39;université de Stockholm (1999)- Médaille Lovelace (2000)- Docteur honoris causa de l&#39;université d&#39;Helsinki (2000)- European of the Year (en) (2001)- Computer History Museum fellow (2008)- Temple de la renommée d&#39;Internet (2012)- Prix Millennium Technology (2012)- Computer Pioneer Award (2014)- IEEE Masaru Ibuka Consumer Electronics Award (2018)  # Travail  - Fondation Linux (depuis le 22 janvier 2007),   - Open Source Development Labs (juin 2003 - 22 janvier 2007)  - Transmeta (février 1997 - juin 2003),   - université d&#39;Helsinki (1992-1996)  ## Formation - Formation: Université d&#39;Helsinki (maîtrise) (1988-1996)## Œuvres principales- Noyau Linux- Git- SubsurfaceLa photoLien de téléchargement sur github",
-      "url": "/bootcamp-front-end/page-hommage-html.html#recherche-et-rédaction-de-contenue",
-      "author": "",
-      "categories": "projet1"
-    },
-"page-hommage-html-html#recherche-des-références-pour-chaque-élément-technique": {
-      "title": "Recherche des références pour chaque élément technique  (Prototype 1 - HTML)",
-      "content"	 : "Recherche des références pour chaque élément technique",
-      "url": "/bootcamp-front-end/page-hommage-html.html#recherche-des-références-pour-chaque-élément-technique",
-      "author": "",
-      "categories": "projet1"
-    },
-"page-hommage-html-html#apprendre-lutilisation-de-chaque-élément-avec-un-ou-plusieurs-exemple": {
-      "title": "Apprendre l’utilisation de chaque élément avec un ou plusieurs exemple  (Prototype 1 - HTML)",
-      "content"	 : "Apprendre l’utilisation de chaque élément avec un ou plusieurs exemple",
-      "url": "/bootcamp-front-end/page-hommage-html.html#apprendre-lutilisation-de-chaque-élément-avec-un-ou-plusieurs-exemple",
-      "author": "",
-      "categories": "projet1"
-    },
-"page-hommage-html-html#réalisation-du-prototype-en-se-basant-sur-les-exemples-que-vous-avez-réaliser": {
-      "title": "Réalisation du prototype en se basant sur les exemples que vous avez réaliser.  (Prototype 1 - HTML)",
-      "content"	 : "Réalisation du prototype en se basant sur les exemples que vous avez réaliser.",
-      "url": "/bootcamp-front-end/page-hommage-html.html#réalisation-du-prototype-en-se-basant-sur-les-exemples-que-vous-avez-réaliser",
+"page-hommage-html-html#technique-3--html-sémantique": {
+      "title": "Technique 3 : HTML sémantique  (Prototype 1 - HTML)",
+      "content"	 : "Technique 3 : HTML sémantiqueAuto-formationExemple pratique",
+      "url": "/bootcamp-front-end/page-hommage-html.html#technique-3--html-sémantique",
       "author": "",
       "categories": "projet1"
     }
@@ -350,22 +329,6 @@
       "title": "P3 - Sémantique et Normalize",
       "content"	 : "Prototype 3 : HTML sémantique et normalize CSS",
       "url": "/bootcamp-front-end/page-hommage-s%C3%A9mantique-normalize.html",
-      "author": "",
-      "categories": "projet1"
-    }
-,
-"page-hommage-texte-police-html": {
-      "title": "Prototype 4 - texte et police",
-      "content"	 : "Prototype 3 : Police et couleurs",
-      "url": "/bootcamp-front-end/page-hommage-texte-police.html",
-      "author": "",
-      "categories": "projet1"
-    }
-,
-"page-hommage-disposition-float-html": {
-      "title": "Prototype 5 - disposition en float",
-      "content"	 : "Prototype 5 : Disposition en float",
-      "url": "/bootcamp-front-end/page-hommage-disposition-float.html",
       "author": "",
       "categories": "projet1"
     }
