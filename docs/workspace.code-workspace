@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "./_chapitres"
+		},
+		{
+			"path": "./_parties"
+		},
+		{
+			"path": "./images"
+		},
+		{
+			"path": "./_Modélisation"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,96 @@
+main hr{
+    display: none;
+}
+
+em{
+    /* color : #0557b3; */
+}
+
+.fullScreen {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+}
+
+
+.codeur-btn {
+
+	border:1px solid #00a3ad;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.codeur-btn:hover {
+
+}
+.codeur-btn:active {
+	position:relative;
+	top:1px;
+}
+
+/* fix code color background*/
+
+:not(pre):not(a) > .hljs {
+    color: #dcdcdc !important;
+    overflow-x: initial;
+} 
+
+ 
+.content img {
+   
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+ 
+
+ .video-container { 
+     position: relative; 
+     padding-bottom: 56.25%; 
+     padding-top: 0px; 
+     height: 0; 
+     overflow: hidden; 
+}
+
+.video-container iframe, .video-container object, .video-container embed 
+{ 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+}
+
+
+.highlight table {
+    margin: 0 0;
+    border-collapse: collapse;
+}
+
+.rouge-code pre {
+    overflow-x: auto;
+    width: 658px;
+    padding-bottom: 3px;
+    scrollbar-color: red
+}
+
+.rouge-code pre::-webkit-scrollbar {
+    background: rgb(233, 232, 232);
+ 
+    
+}
+.rouge-code pre::-webkit-scrollbar-thumb {
+    background: rgb(202, 202, 202);
+}
+ 
+.rouge-table td {
+    vertical-align: top;
+}
