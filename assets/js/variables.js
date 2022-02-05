@@ -1,2 +1,5 @@
-var page_url = "/assets/js/variables.js";
-var site_baseurl = "/bootcamp-front-end";
+---
+layout: null
+---
+var page_url = "{{page.url}}";
+var site_baseurl = "{{site.baseurl}}";

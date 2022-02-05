@@ -1,0 +1,80 @@
+---
+layout: default
+---
+<div class="page">       
+    <div id="menu-bar-hover-placeholder"></div>
+    <div id="menu-bar" class="menu-bar sticky bordered">
+        <div class="left-buttons">
+            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                <i class="fa fa-bars"></i>
+            </button>
+            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                <i class="fa fa-paint-brush"></i>
+            </button>
+            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                <li role="none"><button role="menuitem" class="theme" id="codeur">Codeur (default)</button></li>
+                <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+            </ul>
+            
+            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                <i class="fa fa-search"></i>
+            </button>
+            
+        </div>
+        <h1 class="menu-title">{{site.title}}</h1>
+        <div class="right-buttons">
+            <!-- <a href="print.html" title="Print this book" aria-label="Print this book">
+                <i id="print-button" class="fa fa-print"></i>
+            </a> -->
+        </div>
+    </div> 
+    <div id="search-wrapper" class="hidden">
+        <form id="searchbar-outer" class="searchbar-outer">
+            <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Rechercher dans ce livre ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+        </form>
+        <div id="searchresults-outer" class="searchresults-outer hidden">
+            <div id="searchresults-header" class="searchresults-header"></div>
+            <ul id="searchresults">
+            </ul>
+        </div>
+    </div>
+   
+
+    <div id="content" class="content">
+        <main>
+            {{ content }}
+        </main>
+        {%- include calculate-prevnext-chapitre.html -%}
+       
+        <nav class="nav-wrapper" aria-label="Page navigation">
+            <!-- Mobile navigation buttons -->
+            {%- if prev -%}
+                <a rel="prev" href="{{site.baseurl}}{{prev.url}}" class="mobile-nav-chapters previous" title="{{prev.title}}" aria-label="{{prev.title}}" aria-keyshortcuts="Left">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            {%- endif-%}
+            {%- if next -%}
+                <a rel="next" href="{{site.baseurl}}{{next.url}}" class="mobile-nav-chapters next" title="{{next.title}}" aria-label="{{next.title}}" aria-keyshortcuts="Right">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            {%- endif-%}
+            <div style="clear: both"></div>
+        </nav>
+    </div>
+</div>
+<nav class="nav-wide-wrapper" aria-label="Page navigation">         
+{%- if prev -%}
+<a rel="prev" href="{{site.baseurl}}{{prev.url}}" class="nav-chapters previous" title="{{prev.title}}" aria-label="{{prev.title}}" aria-keyshortcuts="Left">
+    <i class="fa fa-angle-left"></i>
+</a>
+{%- endif-%}
+{%- if next -%}
+<a rel="next" href="{{site.baseurl}}{{next.url}}" class="nav-chapters next" title="{{next.title}}" aria-label="{{next.title}}" aria-keyshortcuts="Right">
+    <i class="fa fa-angle-right"></i>
+</a>
+{%- endif-%}
+</nav>

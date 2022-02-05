@@ -1,1 +1,0 @@
-Sitemap: https://codeur-academy.com/bootcamp-front-end/sitemap.xml

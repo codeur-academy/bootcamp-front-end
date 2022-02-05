@@ -1,0 +1,74 @@
+{%- comment -%}
+Trouver le chapitre suivant et précédent du chapitre en cours de lecture.
+Trouver les chapitres de la partie en cours
+{%- endcomment -%}
+{%- assign partie_slug = page.categories[0] --%}
+{%- assign chapitres_in_partie = site.chapitres | where: "categories", partie_slug  | sort: "order"-%}
+
+
+{%- if chapitres_in_partie.size > 1 -%}
+  {%- comment -%}
+    Store the index position of the matching chapitres_in_partie
+  {%- endcomment -%}
+  {%- for item in chapitres_in_partie -%}
+    {%- if item.title == page.title -%}
+      {%- assign item_index = forloop.index -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {%- assign next_index  = item_index | plus: 1 -%}
+  {%- assign prev_index = item_index | minus: 1 -%}
+  
+  {%- for item in chapitres_in_partie -%}
+    {%- if forloop.index == prev_index -%}
+      {%- assign prev = item -%}
+    {%- endif -%}
+    {%- if forloop.index == next_index -%}
+      {%- assign next = item -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+ 
+
+{%- if  next == null or prev == null -%}
+  {%- comment -%} 
+    Trouver le premier chapitre de la partie suivant 
+  {%- endcomment -%}
+  {%- assign ordered_parties = site.parties | sort: "order"-%}
+  {%- comment -%} 
+    Trouver l'index de la partie en cours
+  {%- endcomment -%}
+  {%- for partie_item in ordered_parties -%}
+  {%- if partie_item.slug == partie_slug -%}
+    {%- assign partie_item_index = forloop.index -%}
+  {%- endif -%}
+  {%- endfor -%}
+  {%- comment -%} 
+    Trouver la partie suivant ou précédent
+  {%- endcomment -%}
+  {%- assign next_partie_index  = partie_item_index | plus: 1 -%}
+  {%- assign prev_partie_index  = partie_item_index | minus: 1 -%}
+  {%- for item in ordered_parties -%}
+  {%- if forloop.index == next_partie_index -%}
+    {%- assign next_partie = item -%}
+  {%- endif-%}
+  {%- if forloop.index == prev_partie_index -%}
+  {%- assign prev_partie = item -%}
+{%- endif-%}
+  {%- endfor -%}
+  {%- comment -%} 
+    Premier chapitre de la partie suivant
+  {%- endcomment -%}
+  {%- if next_partie and next == null  -%}
+  {%- assign chapitres_in_partie_suivant = site.chapitres | where: "categories", next_partie.slug  | sort: "order"-%}
+  {%- assign next = chapitres_in_partie_suivant[0]  -%}
+  {%- endif-%} 
+
+  {%- if prev_partie and prev == null -%}
+  {%- assign chapitres_in_partie_prev = site.chapitres | where: "categories", prev_partie.slug  | sort: "order"-%}
+  {%- assign last_chapitre_index_in_prev_partie = chapitres_in_partie_prev.size | minus: 1  -%}
+
+  {%- assign prev = chapitres_in_partie_prev[last_chapitre_index_in_prev_partie]  -%}
+  {%- endif-%}
+{%- endif-%}

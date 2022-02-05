@@ -1,0 +1,93 @@
+# Titre et description
+destination: docs
+title: bootcamp-front-end
+description: Aide à la réalisation de 15 projets réels 
+locale: fr_FR
+environment: production
+# URL
+baseurl: "/bootcamp-front-end"
+url: "https://codeur-academy.com" 
+
+# Formation
+
+
+# Table of content
+toc:
+  enabled: false
+  h_min: 1
+  h_max: 3
+  
+
+# Collections
+collections:
+  sections:
+    output: true
+    permalink: /:collection/:name/
+  parties:
+    output: false
+    permalink: /parties/:title
+  chapitres:
+    output: true
+    permalink: /:title.html
+
+# Authors
+authors:
+  essarraj:
+    name: ESSARRAJ
+    display_name: ESSARRAJ Fouad
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: essarraj.fouad@gmail.com
+    web: https://www.essarrajfouad.com
+    description: "J'aide les étudiants, élèves ingénieur et stagiaires à développer leurs compétences en développement d’application."
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+
+# Pagination 
+# paginate: 6
+# paginate_path: /page:num/
+
+# Archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
+
+
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - PowerPointFiles/
+  - Template.json
+  - template.potx
+  - EspaceTravail/
+  - Version1
+  - README.md
+

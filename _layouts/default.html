@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html dir="ltr" lang="{{ site.locale | default: "en-US" }}" class="sidebar-visible no-js codeur">
+    <head>
+        <meta name="author" content="ESSARRAJ Fouad" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% assign partie = site.parties | where: "slug", page.categories[0] | first -%}
+        <title>{{page.title}} | {{ partie.title }} - {{site.title}}</title>
+        {% seo title=false  %}
+        <link rel="shortcut icon" href="{{site.baseurl}}/favicon.png">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/variables.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/general.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/chrome.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/print.css" media="print">
+        <link rel="stylesheet" href="{{site.baseurl}}/vendor/FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/vendor/fonts/fonts.css">
+        <!-- <link rel="stylesheet" href="{{site.baseurl}}/vendor/highlight1/highlight.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/vendor/highlight1/tomorrow-night.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/vendor/highlight1/ayu-highlight.css"> -->
+        <!-- <link rel="stylesheet" href="{{site.baseurl}}/vendor/pygments-css/pygments.css"> -->
+        <link rel="stylesheet" href="{{site.baseurl}}/vendor/pygments-css/nimbus-pygments.css">
+        <link rel="stylesheet" href="{{site.baseurl}}/vendor/pygments-css/code-format.scss">
+       
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/custom.css">
+        <script type="text/javascript" src="{{site.baseurl}}/assets/js/theme-config.js"></script>
+        {%- if site.environment == 'production' -%}
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CR3NFZ86T4"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-CR3NFZ86T4');
+        </script>
+        {%- endif -%}
+    </head>
+    <body>
+        {% include table-of-contents.html %}
+        <div id="page-wrapper" class="page-wrapper">
+            {{ content }}
+        </div>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="{{site.baseurl}}/vendor/lunrjs/lunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="{{site.baseurl}}/vendor/mark/mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="{{site.baseurl}}/vendor/mark/jquery.mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="{{site.baseurl}}/assets/js/variables.js" type="text/javascript" charset="utf-8"></script>
+        <script src="{{site.baseurl}}/assets/js/search2.js" type="text/javascript" charset="utf-8"></script>
+        <script src="{{site.baseurl}}/vendor/clipboard/clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <!-- <script src="{{site.baseurl}}/vendor/highlight/highlight1.js" type="text/javascript" charset="utf-8"></script> -->
+        <script src="{{site.baseurl}}/assets/js/book.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript" src="{{site.baseurl}}/assets/js/custom.js"></script>
+    </body>
+</html>
