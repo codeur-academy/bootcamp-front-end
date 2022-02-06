@@ -1,6 +1,6 @@
+_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 _docs_development
-_site

@@ -90,4 +90,5 @@ exclude:
   - EspaceTravail/
   - Version1
   - README.md
+  - docs
 

@@ -6,6 +6,13 @@
       "author": "",
       "categories": "projet0"
     },
+"cr-c3-a9ation-page-web-avec-html-css-travail-c3-a0-faire-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Travail à faire)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/bootcamp-front-end/cr%C3%A9ation-page-web-avec-html-css-travail-%C3%A0-faire.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "projet0"
+    },
 "cr-c3-a9ation-page-web-avec-html-css-travail-c3-a0-faire-html#description-du-projet": {
       "title": "Description du projet  (Travail à faire)",
       "content"	 : "Description du projetAvant de commencer la réalisation de nos projets, je vous conseil, si vous êtes totalement débutant, de commencer votre apprentissage pour une auto-formation rapide du langage HTML et CSS. Just pour découvrir la syntaxe générale et de réaliser votre première page web. Je nomme cette étape d’initialisation : Bien démarrer avec HTML 5 et CSS3.Le projet consiste à réaliser un article sur le sujet : Ordinateur.L’objectif est d’abord découvrir la syntaxe des langages HTML5 et CSS3, ensuit apprendre les notions de base qui vous amène à comprendre comment réaliser les projets suivants de notre formation.",
@@ -35,6 +42,13 @@
       "author": "",
       "categories": "projet0"
     },
+"cr-c3-a9ation-page-web-avec-html-css-orientation-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Conseils et orientation)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/bootcamp-front-end/cr%C3%A9ation-page-web-avec-html-css-orientation.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "projet0"
+    },
 "cr-c3-a9ation-page-web-avec-html-css-orientation-html#division-du-projet-en-prototypes": {
       "title": "Division du projet en prototypes  (Conseils et orientation)",
       "content"	 : "Division du projet en prototypesPour simplifier la réalisation du projet, nous vous proposons de le diviser en plusieurs partie simple à réaliser. Par exemple, nous pouvons diviser le projet en deux partie :  Partie 1 : Page d’article seulement en HTML  Partie 2 : Page d’article avec HTML et CSSJe nomme chaque partie : Prototype. Il sert à nous montrer comment réaliser une partie de notre projet.",
@@ -59,16 +73,30 @@
 ,
 "rappel-html5-html": {
       "title": "Rappel HTML5",
-      "content"	 : "Rappel HTML5",
+      "content"	 : "Rappel HTML5Pour vous aider à réaliser votre projet, nous allons faire une petite rappel du langage HTML.",
       "url": "/bootcamp-front-end/rappel-html5.html",
+      "author": "",
+      "categories": "projet0"
+    },
+"rappel-html5-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Rappel HTML5)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/bootcamp-front-end/rappel-html5.html#extrait-de-la-formation-vidéo",
       "author": "",
       "categories": "projet0"
     }
 ,
 "tutoriel-cr-c3-a9ation-page-en-html-html": {
-      "title": "Rappel HTML5",
-      "content"	 : "Réalisation du projet en HTML",
+      "title": "Réalisation en HTML",
+      "content"	 : "Réalisation du projet en HTML5Dans cette session de formation, nous allons réaliser le projet seulement en utilisant le langage HTML5.",
       "url": "/bootcamp-front-end/tutoriel-cr%C3%A9ation-page-en-html.html",
+      "author": "",
+      "categories": "projet0"
+    },
+"tutoriel-cr-c3-a9ation-page-en-html-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Réalisation en HTML)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/bootcamp-front-end/tutoriel-cr%C3%A9ation-page-en-html.html#extrait-de-la-formation-vidéo",
       "author": "",
       "categories": "projet0"
     }
@@ -83,7 +111,7 @@
 ,
 "cr-c3-a9ation-page-web-avec-html-css-html": {
       "title": "Réalisation",
-      "content"	 : "Réalisation du projet",
+      "content"	 : "Réalisation du projet en HTML5 et CSS3Dans cette session du formation nous allons réaliser la version finale du projet en HTML5 et CSS3.",
       "url": "/bootcamp-front-end/cr%C3%A9ation-page-web-avec-html-css.html",
       "author": "",
       "categories": "projet0"
@@ -291,6 +319,13 @@
       "author": "",
       "categories": "projet1"
     },
+"page-hommage-analyse-technique-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Analyse technique)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/bootcamp-front-end/page-hommage-analyse-technique.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "projet1"
+    },
 "page-hommage-analyse-technique-html#différence-entre-un-prototype-et-une-partie-de-projet": {
       "title": "Différence entre un prototype et une partie de projet.  (Analyse technique)",
       "content"	 : "Différence entre un prototype et une partie de projet.Pour réaliser votre projet, vous avez besoin d’utiliser plusieurs techniques de programmation.Une technique de programmation peut être :  L’utilisation d’un langage de programmation comme HTML et CSS  Le choix et l’utilisation des couleurs avec CSS  La structuration sémantique de contenue avec le langage HTMLUn prototype est une réalisation pratique qui vous montre comment combiner plusieurs techniques de programmation pour vous aider à réaliser une partie de projet.Ce n’est pas une partie de projet. Si vous regrouper les prototypes vous n’obtiendrez pas le projet. Vous construisez les prototypes pour apprendre comment réaliser chaque partie de votre projet.",
@@ -336,7 +371,7 @@
 ,
 "page-hommage-html-html": {
       "title": "Prototype 1 - HTML",
-      "content"	 : "Prototype 1 : HTMLD’abord pour déterminer les auto-formations à faire pour réaliser vos prototypes, ensuite pour valider votre apprentissage et acquisition de ces techniques nécessaire à la réalisation de votre projet..Dans le prototype 1, nous allons réaliser une page web en utilisant les techniques suivantes :  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  L’utilisation des balise HTML sémantiqueVous pouvez réaliser ce travail en deux étapes :  Réalisation d’un exemple pratique pour apprendre chaque technique en se basant sur l’auto-formation.  Regrouper ce que nous allons apprendre dans un seul exemple.",
+      "content"	 : "Prototype 1 : HTMLDans le prototype 1, nous allons réaliser une page web en utilisant les techniques suivantes :  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  L’utilisation des balise HTML sémantiqueVous pouvez réaliser ce travail en deux étapes :  Réalisation d’un exemple pratique pour apprendre chaque technique en se basant sur l’auto-formation.  Regrouper ce que nous allons apprendre dans un seul exemple.",
       "url": "/bootcamp-front-end/page-hommage-html.html",
       "author": "",
       "categories": "projet1"
